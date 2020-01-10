@@ -5,8 +5,6 @@ Personal build of Suckless' Dmenu
 
 That's it.
 
-#### _See LICENSE file for copyright and license details_
-
 -----------------
 
 dmenu - dynamic menu
@@ -34,3 +32,6 @@ Running dmenu
 -------------
 See the man page for details.
 
+-----
+
+#### _See LICENSE file for copyright and license details_
